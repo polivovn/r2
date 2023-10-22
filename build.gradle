@@ -15,7 +15,7 @@ repositories {
 
 dependencies {
 
-     implementation 'rest:artifacts:5.3.1'
+
 
     testImplementation 'io.rest-assured:rest-assured:5.3.1'
     testImplementation 'io.rest-assured:json-schema-validator:4.3.1'
